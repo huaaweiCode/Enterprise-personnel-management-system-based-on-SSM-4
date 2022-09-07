@@ -1,10 +1,6 @@
 # 基于SSM的企业人事人员管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ： “**员工4**”   
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -75,12 +71,4 @@
 - 请假管理：管理员可以审批请假记录，查看筛选员工的详细请假记录，还可以查看未批准、已批准的请假记录
 - 员工管理：管理员可以增删改查员工信息，还可以查看已退休员工信息，员工档案信息等
 - 职称管理：管理员可以增删改查职称信息
-
-## 5、获取方式
-
-扫描下方，回复关键词  ： “**员工4**”   
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
